@@ -163,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 397.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,7 +176,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "714448a93c55df4e",
+  "active": "4c538de8f8952851",
   "lastOpenFiles": [
     "Treinamento GT-BAITA/🧠 Resumo do Projeto (3 Aulas).md",
     "Treinamento GT-BAITA/Protocolos de identidade/federado/🔎 Resolução de Confiança e Política no OpenID Federation.md",
