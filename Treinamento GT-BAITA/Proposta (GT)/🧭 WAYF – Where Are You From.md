@@ -58,7 +58,7 @@ Isso dificulta:
     
 - Suporta múltiplos níveis e fatores de autenticação de forma coordenada.
 
-
+---
 
 [[🏗️ Arquitetura Proposta]]
 
