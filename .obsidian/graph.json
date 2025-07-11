@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#Criptografia  ",
@@ -27,18 +27,25 @@
         "a": 1,
         "rgb": 15079705
       }
+    },
+    {
+      "query": "tag:#Proposta",
+      "color": {
+        "a": 1,
+        "rgb": 6021202
+      }
     }
   ],
-  "collapse-display": true,
-  "showArrow": false,
+  "collapse-display": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 0.508333333333333,
+  "lineSizeMultiplier": 0.533854166666667,
   "collapse-forces": false,
-  "centerStrength": 0.395833333333333,
-  "repelStrength": 15.4166666666667,
+  "centerStrength": 0.942708333333333,
+  "repelStrength": 12.1875,
   "linkStrength": 1,
-  "linkDistance": 299,
-  "scale": 0.2962962962962963,
+  "linkDistance": 30,
+  "scale": 0.6666666666666656,
   "close": true
 }

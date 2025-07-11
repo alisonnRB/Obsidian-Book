@@ -19,15 +19,13 @@ Objetivo: apresentar e esclarecer os principais conceitos relacionados à identi
 	
     - SAML (protocolo legado)
 
-- Novo Protocolo (proposta do GT)
+- Novo Protocolo [[🧭 Premissas da OpenID Federation]]
     
-
-    
-- OAuth 2.0
-    
-- OpenID Connect
-    
-- OpenID Federation
+	- OAuth 2.0
+	    
+	- OpenID Connect
+	    
+	- OpenID Federation
 
 - Proposta do Grupo de Trabalho
 

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "df04d7fb709ecdd4",
+        "id": "9f289e8a88908382",
         "type": "tabs",
         "children": [
           {
-            "id": "714448a93c55df4e",
+            "id": "1e372c4b1c6ae1ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Treinamento GT-BAITA/🧠 Resumo do Projeto (3 Aulas).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🧠 Resumo do Projeto (3 Aulas)"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -163,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,9 +172,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c538de8f8952851",
+  "active": "1e372c4b1c6ae1ba",
   "lastOpenFiles": [
     "Treinamento GT-BAITA/🧠 Resumo do Projeto (3 Aulas).md",
+    "Treinamento GT-BAITA/Proposta (GT)/🧭 WAYF – Where Are You From.md",
+    "Treinamento GT-BAITA/Proposta (GT)/🏗️ Arquitetura Proposta.md",
+    "Treinamento GT-BAITA/Proposta (GT)/🧭 Premissas da OpenID Federation.md",
+    "Treinamento GT-BAITA/Proposta (GT)/🔄SAML vs OpenID Federation.md",
+    "Treinamento GT-BAITA/Proposta (GT)",
+    "Treinamento GT-BAITA/Protocolos de identidade/federado/⚙️ Registro Automático de Provedores no OpenID Federation.md",
+    "Treinamento GT-BAITA/Protocolos de identidade/federado/🎖️ Trust Marks – Marcas de Confiança.md",
     "Treinamento GT-BAITA/Protocolos de identidade/federado/🔎 Resolução de Confiança e Política no OpenID Federation.md",
     "Treinamento GT-BAITA/Protocolos de identidade/federado/🔐 Estrutura de Confiança no OpenID Federation.md",
     "Treinamento GT-BAITA/Protocolos de identidade/federado/🌐 OpenID Federation – Confiança Distribuída.md",
@@ -202,7 +205,6 @@
     "Treinamento GT-BAITA/Criptografia/✍️ Assinatura Digital com RSA e Hash.md",
     "Treinamento GT-BAITA/Protocolos de identidade",
     "Treinamento GT-BAITA/Criptografia",
-    "[ Envio do Documento + Assinatura + Chave Pública.md",
     "Treinamento GT-BAITA"
   ]
 }
